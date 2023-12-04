@@ -1,0 +1,18 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+  background-color: plum;
+  border-style: solid;
+  border-color: Black;
+  padding: 5px;
+  margin: 5x;
+}
+img {
+  border: 30px;
+  padding: 5px;
+}
+.form-group {
+  padding: 10px;
+}
